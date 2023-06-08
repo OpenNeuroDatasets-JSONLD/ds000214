@@ -3,6 +3,22 @@
     "Levels": {
       "Control": "Healthy volunteer",
       "Patient": "Person with emotionally unstable personality disorder (borderline type)"
+    },
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Diagnosis",
+        "Label": ""
+      },
+      "Levels": {
+        "Control": {
+          "TermURL": "purl:NCIT_C94342",
+          "Label": ""
+        },
+        "Patient": {
+          "TermURL": "snomed:20010003",
+          "Label": ""
+        }
+      }
     }
   },
   "HAM-D": {
@@ -18,7 +34,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
@@ -29,7 +45,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
@@ -40,7 +56,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
@@ -51,7 +67,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
@@ -62,7 +78,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
@@ -73,7 +89,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
@@ -84,7 +100,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
@@ -95,7 +111,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
@@ -106,7 +122,7 @@
       "0": "No symptoms",
       "1": "Mild symptoms",
       "2": "Moderate symptoms",
-      "3": "Serious symptoms", 
+      "3": "Serious symptoms",
       "4": "Severe symptoms"
     }
   },
