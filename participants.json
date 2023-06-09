@@ -22,10 +22,30 @@
     }
   },
   "HAM-D": {
-    "LongName": "Hamilton Depression Rating Scale score"
+    "LongName": "Hamilton Depression Rating Scale score",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Assessment",
+        "Label": ""
+      },
+      "IsPartOf": {
+        "TermURL": "cogatlas:trm_559e2af1cc0ce",
+        "Label": ""
+      }
+    }
   },
   "YMRS": {
-    "LongName": "Young Mania Rating Scale score"
+    "LongName": "Young Mania Rating Scale score",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Assessment",
+        "Label": ""
+      },
+      "IsPartOf": {
+        "TermURL": "cogatlas:trm_558702243da12",
+        "Label": ""
+      }
+    }
   },
   "Zanarini-1": {
     "LongName": "Zanarini item 1 score",
