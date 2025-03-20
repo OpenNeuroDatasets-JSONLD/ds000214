@@ -19,7 +19,8 @@
           "Label": ""
         }
       }
-    }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "HAM-D": {
     "LongName": "Hamilton Depression Rating Scale score",
@@ -32,7 +33,8 @@
         "TermURL": "cogatlas:trm_559e2af1cc0ce",
         "Label": ""
       }
-    }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "YMRS": {
     "LongName": "Young Mania Rating Scale score",
@@ -45,7 +47,8 @@
         "TermURL": "cogatlas:trm_558702243da12",
         "Label": ""
       }
-    }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "Zanarini-1": {
     "LongName": "Zanarini item 1 score",
@@ -147,19 +150,24 @@
     }
   },
   "CTQ-PhysAbuse": {
-    "LongName": "Childhood trauma questionnaire physical abuse score"
+    "LongName": "Childhood trauma questionnaire physical abuse score",
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "CTQ-EmotAbuse": {
-    "LongName": "Childhood trauma questionnaire emotional abuse score"
+    "LongName": "Childhood trauma questionnaire emotional abuse score",
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "CTQ-SexAbuse": {
-    "LongName": "Childhood trauma questionnaire sexual abuse score"
+    "LongName": "Childhood trauma questionnaire sexual abuse score",
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "CTQ-PhysNeglect": {
-    "LongName": "Childhood trauma questionnaire physical neglect score"
+    "LongName": "Childhood trauma questionnaire physical neglect score",
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "CTQ-EmotNeglect": {
-    "LongName": "Childhood trauma questionnaire emotional neglect score"
+    "LongName": "Childhood trauma questionnaire emotional neglect score",
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "drug-1": {
     "LongName": "Medication 1",
